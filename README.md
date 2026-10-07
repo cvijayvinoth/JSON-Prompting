@@ -95,6 +95,3 @@ A standardized SCALE JSON prompt:
 3. [Video Generation Using SCALE](docs/video-generation-scale.md)
 
 ---
-
-## 📄 License
-MIT License. See [LICENSE](LICENSE) for details.

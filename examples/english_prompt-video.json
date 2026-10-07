@@ -1,0 +1,59 @@
+{
+  "project": {
+    "title": "The Divine Wedding of Madurai",
+    "total_duration": "30 seconds",
+    "generation_strategy": "Generate three separate 10-second cinematic clips in Gemini and seamlessly combine them into one 30-second video.",
+    "aspect_ratio": "16:9",
+    "visual_style": "Epic cinematic devotional realism, authentic South Indian Tamil temple aesthetics, photorealistic divine characters, warm golden lighting, rich silk textures, intricate temple jewellery, realistic human movement, spiritual atmosphere, majestic scale, 4K quality.",
+    "character_consistency": {
+      "meenakshi": "Goddess Meenakshi, portrayed as a graceful South Indian royal bride with a serene radiant face, expressive compassionate eyes, traditional Madurai silk saree, elaborate gold temple jewellery, jasmine flowers, ornate traditional crown and divine golden aura.",
+      "chokkanathar": "Lord Chokkanathar (Sundareswarar), portrayed as a majestic divine South Indian groom with a calm compassionate expression, traditional Shaivite royal attire, sacred ornaments, elegant crown, divine golden aura and dignified presence."
+    },
+    "negative_prompt": "No modern clothing, no modern buildings, no Western wedding elements, no fantasy armor, no distorted faces, no extra limbs, no duplicate people, no cartoon appearance, no distorted text, no unnatural movements, no sudden costume changes, no character redesign."
+  },
+  "clips": [
+    {
+      "clip": "01",
+      "duration": "0-10 seconds",
+      "title": "The Divine Couple Arrives",
+      "SCALE": {
+        "Subject": "Goddess Meenakshi and Lord Chokkanathar (Sundareswarar), portrayed as the divine bride and groom in magnificent traditional South Indian wedding attire. Meenakshi radiates feminine grace and divine beauty, while Chokkanathar radiates serene masculine majesty and compassion.",
+        "Composition": "Begin with an enormous cinematic establishing shot of the magnificent Madurai Meenakshi Amman Temple and its towering gopurams. Slowly descend toward the sacred wedding courtyard where Meenakshi and Chokkanathar become the visual focus. End with a medium-wide shot of the divine couple standing together, surrounded by devotees, priests, flowers and glowing oil lamps.",
+        "Action": "The divine couple slowly enters the sacred wedding space. Meenakshi gently walks forward with graceful movements while Chokkanathar walks beside her. Jasmine flowers and flower petals drift through the air. Nadaswaram and thavil musicians joyfully welcome the divine couple. Devotees raise their hands in devotion and celebration. Their golden divine aura gradually becomes brighter as they approach the sacred wedding area.",
+        "Location": "Madurai Meenakshi Amman Temple, Tamil Nadu, India, during the legendary Meenakshi-Sundareswarar Thirukalyanam. Grand colourful gopurams, ancient stone pillars, traditional Tamil wedding decorations, jasmine garlands, lotus flowers, rows of glowing kuthu vilakku lamps and hundreds of devotees create an authentic Madurai temple atmosphere.",
+        "Esthetic": "Epic cinematic devotional realism, majestic South Indian temple architecture, warm sunrise-golden illumination, soft volumetric rays, realistic silk and jewellery textures, gentle slow-motion flower petals, subtle divine glow, elegant camera movement, emotionally uplifting, peaceful yet grand, photorealistic 4K cinematic quality. No dialogue, no subtitles, no modern elements."
+      }
+    },
+    {
+      "clip": "02",
+      "duration": "10-20 seconds",
+      "title": "The Sacred Thirukalyanam",
+      "continuity_instruction": "Continue seamlessly from the previous 10-second clip. Preserve exactly the same faces, costumes, jewellery, crowns, body proportions, lighting, temple architecture, colour palette and divine aura.",
+      "SCALE": {
+        "Subject": "Goddess Meenakshi and Lord Chokkanathar (Sundareswarar) at the sacred moment of their divine wedding, surrounded by priests, traditional musicians, devotees and elaborate Tamil wedding decorations. The divine couple remains visually identical to Clip 1.",
+        "Composition": "Start with a medium shot of Meenakshi and Chokkanathar facing each other during the sacred wedding ceremony. Slowly move the camera forward toward the couple. Transition into a beautiful close-up of their serene and loving expressions, then gently reveal the surrounding priests, sacred fire, flowers and golden lamps.",
+        "Action": "The sacred Thirukalyanam ceremony takes place. Priests perform traditional wedding rituals while nadaswaram and thavil musicians play joyfully. Meenakshi and Chokkanathar exchange a loving divine gaze. The sacred wedding moment reaches its joyful climax as flower petals shower gently from above and devotees celebrate with reverence and happiness. Their divine golden aura becomes brighter.",
+        "Location": "The historic wedding hall within the Madurai Meenakshi Amman Temple, richly decorated for the Thirukalyanam. Ornate stone pillars, golden lamps, jasmine and lotus garlands, traditional Tamil wedding decorations and a sacred ceremonial setting surround the divine couple.",
+        "Esthetic": "Deeply devotional, emotional and majestic cinematic realism. Warm golden temple lighting, glowing sacred fire, sparkling jewellery, detailed silk sarees, realistic flower petals, subtle incense smoke, soft depth of field, natural facial expressions, elegant slow camera movement, authentic Tamil Hindu wedding atmosphere, photorealistic 4K quality. No dialogue, no subtitles, no modern elements."
+      }
+    },
+    {
+      "clip": "03",
+      "duration": "20-30 seconds",
+      "title": "Madurai Receives the Divine Blessing",
+      "continuity_instruction": "Continue seamlessly from the previous 10-second clip. Preserve exactly the same faces, costumes, jewellery, crowns, body proportions, lighting, temple architecture, colour palette and divine aura.",
+      "SCALE": {
+        "Subject": "Goddess Meenakshi and Lord Chokkanathar (Sundareswarar), now united as the divine couple, standing together in complete happiness and divine grace. They radiate an overwhelming golden celestial aura while blessing the people of Madurai.",
+        "Composition": "Begin with a close-up of the divine couple smiling peacefully. Slowly pull the camera backward into a grand wide shot revealing the entire temple courtyard filled with devotees, musicians, flowers and thousands of glowing lamps. End with an elevated cinematic view of the divine couple framed against the magnificent Madurai temple architecture.",
+        "Action": "Meenakshi and Chokkanathar gently raise their hands in blessing. Devotees bow and celebrate with happiness. Thousands of flower petals float through the air as golden light spreads across the temple. Traditional musicians continue playing joyfully. The divine couple remains peaceful and radiant as the scene gradually reaches a magnificent heavenly glow.",
+        "Location": "Madurai Meenakshi Amman Temple, Tamil Nadu, during the grand celebration following the divine Thirukalyanam. Towering temple gopurams, illuminated courtyards, traditional Tamil decorations, jasmine garlands, oil lamps, devotees and musicians create a spectacular sacred celebration.",
+        "Esthetic": "Grand finale of an epic devotional cinematic film, breathtaking golden celestial lighting, warm glowing atmosphere, realistic temple architecture, rich South Indian cultural details, floating flower petals, subtle divine rays descending from above, emotional and joyful atmosphere, majestic wide-angle cinematography, photorealistic, ultra-detailed, cinematic 4K quality. End with a peaceful golden fade-out."
+      },
+      "optional_ending_text": {
+        "duration": "last 2-3 seconds",
+        "text": "THE DIVINE WEDDING OF MADURAI\nMEENAKSHI & CHOKKANATHAR",
+        "note": "AI-generated video text may be distorted. For the best result, generate the clean video first and add the title afterward in CapCut, DaVinci Resolve or Premiere Pro."
+      }
+    }
+  ]
+}
